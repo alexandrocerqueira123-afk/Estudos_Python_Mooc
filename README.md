@@ -4,3 +4,4 @@ Nesse repositório, estou utilizando conceitos da Computação aprendidos no MOO
 [1]: Suitcase_Items: Simulador de Bagagens, Com Limite de Peso  
 [2]: Promotion: Aplicação de Getter e Setter no Preço de Mercado  
 [3]: CourseRecords: Aplicativo de Dados Universitários
+[4]: Problems Comprehension: Exercícios de List e Dictionary Comprehension
