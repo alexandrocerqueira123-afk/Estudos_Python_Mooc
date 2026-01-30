@@ -12,7 +12,7 @@ Nesse repositório, estou utilizando conceitos da Computação aprendidos no MOO
 
 
 [English 🇺🇸]  
-In this repository, I apply Computer Science concepts acquired through the University of Helsinki's 2023 Python Programming MOOC.
+In this repository, I apply Computer Science concepts acquired through the University of Helsinki's 2023 Python Programming MOOC
 
 [1]: Suitcase_Items: Weight-Limited Baggage Simulator  
 [2]: Promotion: Market Price Implementation of Getters and Setters  
