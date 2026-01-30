@@ -1,6 +1,6 @@
 # Estudos_Python_Mooc
 
-🇧🇷 Português
+🇧🇷 Português  
 Nesse repositório, estou utilizando conceitos da Computação aprendidos no MOOC 2023 da Universidade de Helsinki
 
 [1]: Suitcase_Items: Simulador de Bagagens, Com Limite de Peso  
@@ -11,7 +11,7 @@ Nesse repositório, estou utilizando conceitos da Computação aprendidos no MOO
 
 
 
-🇺🇸 English
+🇺🇸 English  
 In this repository, I apply Computer Science concepts acquired through the University of Helsinki's 2023 Python Programming MOOC.
 
 [1]: Suitcase_Items: Weight-Limited Baggage Simulator  
